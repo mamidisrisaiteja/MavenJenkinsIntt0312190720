@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="28137" started-at="2019-12-09T03:20:04Z" finished-at="2019-12-09T03:20:32Z">
+    <groups>
+    </groups>
+    <test name="exampletest1" duration-ms="28137" started-at="2019-12-09T03:20:04Z" finished-at="2019-12-09T03:20:32Z">
+      <class name="com.qa.tests.Demo2">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.qa.tests.Demo2@171769e]" name="test1" duration-ms="28073" started-at="2019-12-09T08:50:04Z" finished-at="2019-12-09T08:50:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- com.qa.tests.Demo2 -->
+      <class name="com.qa.tests.Demo1">
+        <test-method status="PASS" signature="div()[pri:0, instance:com.qa.tests.Demo1@17c7260]" name="div" duration-ms="18" started-at="2019-12-09T08:50:04Z" finished-at="2019-12-09T08:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="mul()[pri:0, instance:com.qa.tests.Demo1@17c7260]" name="mul" duration-ms="0" started-at="2019-12-09T08:50:04Z" finished-at="2019-12-09T08:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:com.qa.tests.Demo1@17c7260]" name="sub" duration-ms="0" started-at="2019-12-09T08:50:04Z" finished-at="2019-12-09T08:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method status="PASS" signature="sum()[pri:0, instance:com.qa.tests.Demo1@17c7260]" name="sum" duration-ms="1" started-at="2019-12-09T08:50:04Z" finished-at="2019-12-09T08:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- com.qa.tests.Demo1 -->
+    </test> <!-- exampletest1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
